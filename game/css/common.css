@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Arcade";
+    src: url("../assets/arcadeclassic/ARCADECLASSIC.TTF");
+}
+
+body{
+    color: white;
+    padding: 1em;
+}
+
+p, li {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+* {
+    font-family: 'Arial';
+}
+
+#next-stage{
+    background-color: lightgreen;
+    display: none;
+}
+
+button, .button {
+    background-color: white;
+    padding: 1em 3em 1em 3em;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+html, body {margin: 0; height: 100%;}

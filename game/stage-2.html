@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Stage 2 - Factory</title>
+        <meta name="description" content="Jonny game menu">
+        <meta name="Heraclitus" content="game">
+        <link href="css/common.css" rel="stylesheet">
+        <link rel="stylesheet" href="style/style.css">
+        <link rel="stylesheet" href="lib/css/bootstrap.min.css">
+        <link rel="stylesheet" href="lib/css/bootstrap.min.css.map">
+
+    </head>
+    <style>
+        body{
+            background-color:rgb(30, 126, 133);
+        }
+        canvas{
+            background:url("assets/stage-2.png");
+        }
+    </style>
+    <body>
+        <div class="container">
+        <section>
+            <canvas id="game-screen" width="800" height="400" style="border: black solid 1px;"> </canvas>
+        </section>
+        <section>
+            <button id="next-stage" onclick="window.location.href='lore-3.html'">Ir para a terceira fase</button>
+            <button onclick="window.location.href='stage-2.html'">Tentar de novo</button>
+            <button onclick="window.location.href='../index.php'">Voltar para Atividades</button>
+        </section>
+        </div>
+    </body>
+    <script src="js/stage-2.js"></script>
+    <script src="lib/js/jquery-3.5.1.min.js"></script>
+    <script src="lib/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/js/bootstrap.bundle.min.js"></script>
+</html>
+

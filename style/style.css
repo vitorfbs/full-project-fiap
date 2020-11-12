@@ -1,0 +1,22 @@
+.nav-link, label {
+    font-weight: bold;
+}
+
+body {
+    background-color: #333333!important;
+}
+
+.container {
+    background-color: #f7c4a2;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.navbar {
+    background-color: #f7c4a2!important;
+}
+
+button > img {
+    padding-left: 8em;
+    padding-right: 8em;
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Arcade";
+    src: url("../assets/arcadeclassic/ARCADECLASSIC.TTF");
+}
+
+p {
+    font-family: 'Arial';
+    font-size: 1.5em;
+}
