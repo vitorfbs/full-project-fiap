@@ -21,7 +21,7 @@ window.onload = function () {
     //#endregion
 
     //#region "Game constants and letiables"  
-    let soundtrack = new sound("./sounds/gametheme.mpeg", 0.5, true);
+    let soundtrack = new sound("./sounds/gametheme.mp3", 0.5, true);
     let soundtrackPlaying = false;
 
     let score = 0;
