@@ -70,7 +70,7 @@
         <hr>
         <div class="row">
             <div class="col-md-12">
-                <h2>Quarta-Feira - Em Breve</h2>
+                <h2>Quarta-Feira - Soletra Comigo</h2>
             </div>
         </div>
         <div class="row">
@@ -81,7 +81,7 @@
         <hr>
         <div class="row">
             <div class="col-md-12">
-                <h2>Quinta-Feira - Em Breve</h2>
+                <h2>Quinta-Feira - Me Ame</h2>
             </div>
         </div>
         <div class="row">
@@ -92,7 +92,7 @@
         <hr>
         <div class="row">
             <div class="col-md-12">
-                <h2>Sexta-Feira - Em Breve</h2>
+                <h2>Sexta-Feira - Colorindo</h2>
             </div>
         </div>
         <div class="row">

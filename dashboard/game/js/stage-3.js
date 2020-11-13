@@ -7,7 +7,7 @@ var score = 0;
 var goal = 100;
 
 var frame_to_second_count = 0;
-var timer = 80;
+var timer = 90;
 
 var current_letter_objective = 0;
 
@@ -273,12 +273,12 @@ function check_validity(collision){
     y_letter_3 = generateLetterY();
 
     if( collision == 1){
-        score += 10;
+        score += 15;
         correct = new sound("./assets/correct.wav");
         correct.play();
         current_letter_objective ++;
     } else {
-        score -= 10;
+        score -= 2;
         wrong = new sound("./assets/wrong.wav");
         wrong.play();
     }

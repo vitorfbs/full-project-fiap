@@ -278,7 +278,7 @@ function check_validity(collision){
         correct.play();
         current_letter_objective ++;
     } else {
-        score -= 10;
+        score -= 2;
         wrong = new sound("./assets/wrong.wav");
         wrong.play();
     }
