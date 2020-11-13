@@ -70,13 +70,34 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <nav class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand" href="index.php"><img src="assets/owl.png" alt=""> Heraclitus</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-            </div>
+          <div class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="">|</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="index.php">Atividades</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="">|</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="feedback.php">Dar Feedback (Acesso dos Pais)</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="">|</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.php">Sobre a Equipe</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="">|</a>
+                </li>
+          </div>
         </div>
-    </nav>
+      </nav>
     <br>
     <div class="container">
         <div class="row">

@@ -10,14 +10,32 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light">
-        <a class="navbar-brand" href="#"><img src="assets/owl.png" alt=""> Heraclitus</a>
+        <a class="navbar-brand" href="index.php"><img src="assets/owl.png" alt=""> Heraclitus</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link active" href="feedback.php">Dar Feedback (Acesso dos Pais)</a>
+                    <a class="nav-link" href="">|</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="index.php">Atividades</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="">|</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="feedback.php">Dar Feedback (Acesso dos Pais)</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="">|</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.php">Sobre a Equipe</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="">|</a>
                 </li>
           </div>
         </div>
@@ -30,12 +48,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2>Segunda-Feira - ABC Animal</h2>
+                <h2>Segunda-Feira - ABC do Johnny</h2>
             </div>
         </div>
         <div class="row">
             <div class="col-md-3">
-                <button class="btn btn-secondary"><img src="assets/book.png" alt=""></button>
+                <button class="btn btn-secondary" onclick="window.location.href='activity/game.html'"><img src="assets/book.png" alt=""></button>
             </div>
         </div>
         <hr>
@@ -57,7 +75,29 @@
         </div>
         <div class="row">
             <div class="col-md-3">
-                <button class="btn btn-primary center " disabled><img src="assets/lock.png" alt=""></button>
+                <button class="btn btn-danger center " disabled><img src="assets/lock.png" alt=""></button>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Quinta-Feira - Em Breve</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <button class="btn btn-danger center " disabled><img src="assets/lock.png" alt=""></button>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Sexta-Feira - Em Breve</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <button class="btn btn-danger center " disabled><img src="assets/lock.png" alt=""></button>
             </div>
         </div>
     </div>
