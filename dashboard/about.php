@@ -156,6 +156,10 @@
                     <source src="assets/aventurar.mp3" type="audio/mpeg">
                 </audio>
                 <p><i>"Aventurar" por Vítor Ferreira Bem Silva</i></p>
+                <audio controls>
+                    <source src="assets/gametheme.mp3" type="audio/mpeg">
+                </audio>
+                <p><i>"Cada floco de neve no céu é um sonho" por Vítor Ferreira Bem Silva</i></p>
                 <p><i>Johnny e seu avatar foram desenvolvidos pela equipe Heraclitus</i></p>
             </div>
         </div>
