@@ -118,7 +118,7 @@
             </div>
             <div class="col-md-7">
                 <p><b>Régis Ximendes</b></p>
-                <p><i>""</i></p>
+                <p><i>"Reconhecer os desafios de gerar uma plataforma educativa é compreender os desafios no processo de aprendizado da própria criança."</i></p>
             </div>
         </div>
         <br>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-7">
                 <p><b>Vinicius Barbosa Pereira Mariano</b></p>
-                <p><i></i></p>
+                <p><i>"Estar nesse projeto é acessar um período da vida que parece incrivelmente distante, tentando se perguntar: 'O que eu gostaria?'"</i></p>
             </div>
         </div>
         <br>
