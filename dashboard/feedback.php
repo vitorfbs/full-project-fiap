@@ -158,7 +158,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 </form>
             </div>
         </div>
-        
     </div>
 </body>
 <script src="lib/js/jquery-3.5.1.min.js"></script>

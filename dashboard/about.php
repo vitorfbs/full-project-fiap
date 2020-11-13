@@ -91,34 +91,54 @@
                 <h3>A Equipe Heraclitus</h3>
             </div>
         </div>
+        <br>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-3">
+                <img class="image-fluid" src="assets/team/arthur.jpeg" alt="">
+            </div>
+            <div class="col-md-7">
                 <p><b>Arthur da Silva Santos</b></p>
-                <p><i>""</i></p>
+                <p><i>"O amor de um filho é uma dádiva misteriosa e verdadeira, jamais se irá se comparar com qualquer outro amor."</i></p>
             </div>
         </div>
+        <br>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-3">
+                <img class="image-fluid" src="assets/team/pedro.jpeg" alt="">
+            </div>
+            <div class="col-md-7">
                 <p><b>Pedro Paes Rosa Ruffo</b></p>
-                <p><i>""</i></p>
+                <p><i>"Aprender é sempre um passo enorme para qualquer criança. Esperamos ter tornado esse passo mais divertido e acessível."</i></p>
             </div>
         </div>
+        <br>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-3">
+                <img class="image-fluid" src="assets/team/regis.jpeg" alt="">
+            </div>
+            <div class="col-md-7">
                 <p><b>Régis Ximendes</b></p>
                 <p><i>""</i></p>
             </div>
         </div>
+        <br>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-3">
+                <img class="image-fluid" src="assets/team/vinicius.jpeg" alt="">
+            </div>
+            <div class="col-md-7">
                 <p><b>Vinicius Barbosa Pereira Mariano</b></p>
-                <p><i>""</i></p>
+                <p><i></i></p>
             </div>
         </div>
+        <br>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-3">
+                <img class="image-fluid" src="assets/team/vitor.jpeg" alt="">
+            </div>
+            <div class="col-md-7">
                 <p><b>Vítor Ferreira Bem Silva</b></p>
-                <p><i>""</i></p>
+                <p><i>"Como tio e professor de música da minha sobrinha, sei o quão impactante é o elo emocional para a criança na hora de aprender."</i></p>
             </div>
         </div>
         <div class="row">
