@@ -51,6 +51,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="lib/css/bootstrap.min.css">
     <link rel="stylesheet" href="lib/css/bootstrap.min.css.map">
+    <title>Feedback</title>
     <style type="comment/css">
         .wrapper{
             width: 500px;
